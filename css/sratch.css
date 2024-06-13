@@ -1,0 +1,71 @@
+/* Code that I used for scratch html file */
+
+.scratch1{font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+    font-weight: bold; 
+    text-align: center;
+  }
+
+  .headers {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+}
+
+.headers a {
+    color: darkgreen;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.headers a:visited {
+    color: darkgreen;
+}
+
+
+.body{
+    background-color: floralwhite;
+}
+
+
+.paragraph{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 10px;
+    text-align: left;
+}
+
+.albumsranking {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+.albumsranking .album {
+    font-weight: bold;
+}
+
+.songs {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    text-decoration: none;
+    list-style-type: disc; /* Adds bullet points to the songs list */
+    padding-left: 20px; /* Indents the song list items */
+}
+
+.songs li {
+    font-weight: normal;
+}
+
+
+
+
+.backtop{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgreen;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;}
